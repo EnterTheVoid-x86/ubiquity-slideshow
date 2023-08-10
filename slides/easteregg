@@ -1,0 +1,10 @@
+hi, my name is sean.
+
+congrats on somehow finding this easter egg,
+good for you
+
+ubiquity took quite a bit to set up especially with all of the html files, and so i'm gonna document the process
+
+using a simple bash for loop, i replaced most of the mentions of ubuntu with esterOS, and then i manually edited the htmls with nvim.
+
+i wanna die.
